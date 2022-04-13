@@ -1,0 +1,14 @@
+
+.col{
+    background-color:rgb(183, 234, 223);
+    border: solid white 12px;
+    font-weight:unset;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(65, 28, 47);
+   border-radius: 33px;
+}
+
+p{
+    margin-top: 12px;
+}
+
